@@ -1902,60 +1902,6 @@
       "contributions": [
         "tool"
       ]
-    },
-    {
-      "login": "Nagidal",
-      "name": "Nagidal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7075397?v=4",
-      "profile": "https://github.com/Nagidal",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "adamhb123",
-      "name": "Adam Brewer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25161597?v=4",
-      "profile": "https://adabrew.com",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "eugkhp",
-      "name": "Eugene",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25910599?v=4",
-      "profile": "https://github.com/eugkhp",
-      "contributions": [
-        "tool"
-      ]
-    },
-    {
-      "login": "navicore",
-      "name": "Ed Sweeney",
-      "avatar_url": "https://avatars.githubusercontent.com/u/110999?v=4",
-      "profile": "https://social.linux.pizza/@navicore",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "javihernant",
-      "name": "javihernant",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73640929?v=4",
-      "profile": "https://github.com/javihernant",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "VegardMatthey",
-      "name": "Vegard",
-      "avatar_url": "https://avatars.githubusercontent.com/u/59250656?v=4",
-      "profile": "https://github.com/VegardMatthey",
-      "contributions": [
-        "content"
-      ]
     }
   ],
   "contributorsPerLine": 8,
