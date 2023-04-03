@@ -1,0 +1,15 @@
+pub mod bishop;
+pub mod chess_error;
+pub mod color;
+pub mod fight_result;
+pub mod king;
+pub mod knight;
+pub mod movement;
+pub mod parsing_checks;
+pub mod pawn;
+pub mod piece;
+pub mod piece_list;
+pub mod piece_type;
+pub mod position;
+pub mod queen;
+pub mod rook;
